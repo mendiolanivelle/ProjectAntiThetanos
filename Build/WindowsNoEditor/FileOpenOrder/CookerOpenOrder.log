@@ -1,0 +1,389 @@
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/GameInfoInstance.uasset" 0
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/PC_ProjectThetanos.uasset" 1
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/BTTask_BlueprintBase_New.uasset" 2
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/BTTask_BlueprintBase_New1.uasset" 3
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 4
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 5
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 6
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 7
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/gemabse.uasset" 8
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/gembuttom.uasset" 9
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Meshes/UE4_Mannequin_Skeleton.uasset" 10
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Animations/NoWeaponStance/Idle_noWeaponAnim.uasset" 11
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Textures/T_Burst_M.uasset" 12
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Particles/Materials/M_Burst.uasset" 13
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 14
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 15
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 17
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 18
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 19
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 20
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 21
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Particles/P_Explosion1.uasset" 22
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Animations/NoWeaponStance/NormalSprint_noWeaponAnim.uasset" 23
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/IronMan/BS_IronMan.uasset" 24
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 25
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/IronMan/AnimBP_IronMan.uasset" 26
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/EPowerUp.uasset" 27
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/blast.uasset" 28
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/blast_1.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 30
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 31
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/Diamond.uasset" 32
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 33
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 34
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/dot.uasset" 35
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/T_Smoke_Tile_01.uasset" 36
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/T_Soft_Smoke2_Dup.uasset" 37
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/Smoke_1.uasset" 38
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/Smoke.uasset" 39
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/Smoke_2.uasset" 40
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/portal.uasset" 41
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/BP/PortalRed.uasset" 42
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/vfx/portal1.uasset" 43
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/BP/PortalBlue.uasset" 44
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/BB_Thanos.uasset" 45
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/BTTask_SearchNewTargetLocation.uasset" 46
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/BTTask_SearchPlayerLocation.uasset" 47
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/PlayerContext.uasset" 48
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/EQS_FindHidingSpot.uasset" 49
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/EQS_FindPlayer.uasset" 50
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/BT_Thanos.uasset" 51
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/Ai_Code/AIBP_Thanos.uasset" 52
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Textures/PolyArtTex.uasset" 53
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Materials/PolyartMat.uasset" 54
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Meshes/RPGHeroes_PhysicsAsset.uasset" 55
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Meshes/OneMeshCharacters/DarkKnightSK.uasset" 56
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/Thanos/CH_Thanos.uasset" 57
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/Mat_Gem.uasset" 58
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/MatIns_GemBlue.uasset" 59
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/MatIns_GemGreen.uasset" 60
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/MatIns_GemPurple.uasset" 61
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/MatIns_GemRed.uasset" 62
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/MatIns_GemYellow.uasset" 63
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/SK_Gem.uasset" 64
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Missle.uasset" 65
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Meshes/OneMeshCharacters/KnightSK.uasset" 66
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_GameOverLogo.uasset" 67
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_RedBG.uasset" 68
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Widgets/GameOver_WBP.uasset" 69
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Character/IronMan/CH_IronMan.uasset" 70
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/gemwings.uasset" 71
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem/Gem1.uasset" 72
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem1.uasset" 73
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/Gem.uasset" 74
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/PowerUp/Gem.uasset" 75
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Font/Voyager_Heavy.uasset" 76
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Font/Voyager_Heavy_Font.uasset" 77
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Ice/barecade_ice.uasset" 78
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Ice/wall_crystal_ice.uasset" 79
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Space/scenery_space.uasset" 80
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Space/scenery_space2.uasset" 81
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Space/scenery_space3.uasset" 82
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Space/scenery_space4.uasset" 83
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Wakanda/scenery_wakanda.uasset" 84
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Animations/NoWeaponStance/BattleWalk_noWeaponAnim.uasset" 85
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Animations/SwordAndShieldStance/Idle_SwordShieldAnim.uasset" 86
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Meshes/Weapons/Backpack01SM.uasset" 87
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Meshes/Weapons/Shield04SM.uasset" 88
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/Meshes/Weapons/Sword03SM.uasset" 89
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/ModularRPGHeroesPolyart/CharacterBP/OneMeshCharacterBP.uasset" 90
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/StarterContent/Particles/P_Explosion.uasset" 91
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/UI_Debug/2.uasset" 92
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/UI_Debug/bar.uasset" 93
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/UI_Debug/ff.uasset" 94
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/UI_Debug/timer_prev.uasset" 95
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Widgets/Credits_WBP.uasset" 96
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_Background.uasset" 97
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_PressStartLogo.uasset" 98
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_TitleLogo.uasset" 99
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Widgets/TitleScreen_WBP.uasset" 100
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Widgets/MainMenu_WBP.uasset" 101
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Widgets/Test.uasset" 102
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/HUD_ProjectThetanos.uasset" 103
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/GM_ProjectThetanos.uasset" 104
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Font/Voyager_Light.uasset" 105
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Font/Voyager_Light_Font.uasset" 106
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_HudCircle1.uasset" 107
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_HudCircle2.uasset" 108
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_HudCircle3.uasset" 109
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_HudCircle4.uasset" 110
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_HudCircleGlow.uasset" 111
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Widgets/WBP_InGameHUD.uasset" 112
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 113
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 114
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 115
+"../../../Engine/Content/BasicShapes/Cone.uasset" 116
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 117
+"../../../Engine/Content/BasicShapes/Plane.uasset" 118
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 119
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 120
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 121
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 122
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 123
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 124
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 125
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 126
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 127
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 128
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 129
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 130
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 131
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 132
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 133
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 134
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 135
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 136
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 137
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 138
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 139
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 140
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 141
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 142
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 143
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 144
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 145
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 146
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 147
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 148
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 149
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 150
+"../../../Engine/Content/EditorResources/S_Note.uasset" 151
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 152
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 153
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 154
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 155
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 156
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 157
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 158
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 159
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 160
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 161
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 162
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 163
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 164
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 165
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 166
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 167
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 168
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 169
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 170
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 171
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 172
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 173
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 174
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 175
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 176
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 177
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 178
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 179
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 180
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 181
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 182
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 183
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 184
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 185
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 186
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 187
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 188
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 189
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 190
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 191
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 192
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 194
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 195
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 196
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 197
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 198
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 199
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 200
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 201
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 202
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 203
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 204
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 205
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 206
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 207
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 208
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 209
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 210
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 211
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 212
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 213
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 214
+"../../../Engine/Content/EngineResources/Black.uasset" 215
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 216
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 217
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 218
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 219
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 220
+"../../../Engine/Content/EngineSounds/Master.uasset" 221
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 222
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 223
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 224
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 225
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 226
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 227
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 228
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 229
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 230
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 231
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 233
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 234
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 236
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 237
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 238
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 239
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 240
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 241
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 242
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 243
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 244
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 245
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 246
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 247
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 248
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 249
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 250
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 251
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 252
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 253
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 254
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 255
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 256
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 257
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 258
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 259
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 260
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 261
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 262
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 264
+"../../../Engine/Content/EngineMaterials/FlatNormal.uasset" 265
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_BaseMaster.uasset" 266
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacityMaster.uasset" 267
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpacitySimpleMaster.uasset" 268
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset" 269
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 271
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 272
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 273
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 274
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 275
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat3Values.uasset" 276
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/RGBtoHSV.uasset" 278
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Color.uasset" 279
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/flipbook.uasset" 280
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/ExtractColor.uasset" 281
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/TileMirrorAxis.uasset" 282
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 283
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/UVEdit.uasset" 284
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/Datasmith_Material.uasset" 285
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/NormalFromHeightmap.uasset" 286
+"../../../Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset" 287
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/RevitMaster.uasset" 288
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/SketchUpMaster.uasset" 289
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenUVEdit.uasset" 290
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenBase.uasset" 291
+"../../../Engine/Content/EngineMaterials/T_Default_Normal.uasset" 292
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMaster.uasset" 293
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/DeltaGenMasterTransparent.uasset" 294
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDRepeatMode.uasset" 295
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 296
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/PlanarMapping.uasset" 297
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/ProcessNormal.uasset" 298
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 301
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/TriplanarMapping.uasset" 302
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/UVMapping.uasset" 303
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/VREDTextureRead.uasset" 304
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/BakedDisplacement.uasset" 305
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 306
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Glass.uasset" 307
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Phong.uasset" 308
+"../../Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Plastic.uasset" 309
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 311
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 312
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 313
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 314
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 315
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 316
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 317
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 318
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 319
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 320
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 321
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 322
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 323
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 324
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 325
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 326
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 327
+"../../../Enterprise/Plugins/Editor/DatasmithDataPrepEditor/Content/DataPrepRecipe_Template.uasset" 328
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/HoveredFaceMaterial.uasset" 329
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/HoveredGeometryMaterial.uasset" 330
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireWorldOffset.uasset" 331
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/OverlayLineMaterial.uasset" 332
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/OverlayPointMaterial.uasset" 333
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireMaterial.uasset" 334
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/StaticMeshEditorAssetContainer.uasset" 335
+"../../../Enterprise/Plugins/Editor/StaticMeshEditorExtension/Content/WireMaterialBaseCage.uasset" 336
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_CreditsClicked.uasset" 337
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_CreditsHovered.uasset" 338
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_CreditsNormal.uasset" 339
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_InnerCircle.uasset" 340
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_MainLogoBottom.uasset" 341
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_MainLogoBottomNon.uasset" 342
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_MainLogoTop.uasset" 343
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_MainLogoTopNon.uasset" 344
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_OuterCircle.uasset" 345
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_PlayGameClicked.uasset" 346
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_PlayGameHovered.uasset" 347
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_PlayGameNormal.uasset" 348
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_QuitClicked.uasset" 349
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_QuitHovered.uasset" 350
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Textures/T_QuitNormal.uasset" 351
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Widgets/Menu_WBP.uasset" 352
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/MainMenuLevel.umap" 353
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 354
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 355
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 356
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 357
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 358
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 359
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 360
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 361
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 362
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage1_BuiltData.uasset" 363
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 364
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Space/barecade_space.uasset" 365
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/barecade_space.uasset" 366
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Space/pillars_space.uasset" 367
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/pillars_space.uasset" 368
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Space/wall_space.uasset" 369
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/wall_space.uasset" 370
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage1.umap" 371
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage2_BuiltData.uasset" 372
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 373
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/MatIns_GemGreen.uasset" 374
+"../../../Engine/Content/BasicShapes/Cube.uasset" 375
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage2.umap" 376
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage3_BuiltData.uasset" 377
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage3.umap" 378
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage4_BuiltData.uasset" 379
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage4.umap" 380
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage5_BuiltData.uasset" 381
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Mesh/Wakanda/barecade_wakanda.uasset" 382
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Stage5.umap" 383
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/PortalBlue.uasset" 384
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Core/Gem/PortalRed.uasset" 385
+"../../../../../../Users/Nivelle/Documents/Unreal Projects/ProjectAntiThetanos/Content/Map/Vfx_Debug.umap" 386
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 387
+"../../../Engine/Content/Maps/Entry.umap" 388
